@@ -1,4 +1,4 @@
-# shopping-cart
+# shopping-cart-backend
 implement a shopping cart in C++ 
 
 create Product, Item, and Cart object
